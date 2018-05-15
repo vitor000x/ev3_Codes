@@ -1,0 +1,3 @@
+I1 - Identificador de Cor
+
+I2 - Identificador de Cor com Switch Colour

@@ -1,0 +1,3 @@
+R1 - Gerador de Números Aleatórios
+
+R2 - Gerador de Números Aleatórios - com variável

@@ -1,0 +1,4 @@
+ex1_a - Exercício 1, item a
+ex1_b - Exercício 2, item b
+ex2 - Exercício 2
+ex3 - Exercício 3

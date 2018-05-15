@@ -1,0 +1,8 @@
+S1 - Seguidor de Linha com Colour Sensor no modo Compare - Reflected Intensity Light
+
+S2 - Seguidor de Linha com Colour Sensor no modo Compare - Colour
+
+S3 - Seguidor de Linha com Colour Sensor no modo Measure - Colour
+
+SD - Seguidor Display (Programa extra)
+
