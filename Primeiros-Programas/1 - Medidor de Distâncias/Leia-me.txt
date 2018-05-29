@@ -1,5 +1,5 @@
-M1 = Medidor de Dist‚ncias com Sensor UltrassÙnico
+M1 = Medidor de Dist√¢ncias com Sensor Ultrass√¥nico
 
-M2 = Medidor de Dist‚ncias com Sensor Infravermelho
+M2 = Medidor de Proximidade com Sensor Infravermelho
 
-M3 = Medidor de Dist‚ncias: utilizando o bloco Round 
+M3 = Medidor de Dist√¢ncias: utilizando o bloco Round 
