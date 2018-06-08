@@ -1,0 +1,2 @@
+EGS - Explorer com Gyro Sensor
+SUS - Sumô com Ultrasonic Sensor
